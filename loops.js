@@ -19,3 +19,15 @@ while (countdown > 0) {
 }
 return 'done';
 }
+
+function maybeTrue() {
+  return Math.random() >= 0.5
+}
+
+f
+
+
+
+
+
+
